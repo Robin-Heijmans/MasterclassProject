@@ -1,6 +1,174 @@
 [
 	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Plugins\\TowerDefenseCamera\\Source\\TowerDefenseCamera\\Private\\Actors\\CameraRig.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\TowerDefenseCamera.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Plugins\\TowerDefenseCamera\\Source\\TowerDefenseCamera\\Private\\Log.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\TowerDefenseCamera.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Plugins\\TowerDefenseCamera\\Source\\TowerDefenseCamera\\Private\\Log.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\TowerDefenseCamera.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Plugins\\TowerDefenseCamera\\Source\\TowerDefenseCamera\\Private\\TowerDefenseCamera.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\TowerDefenseCamera.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Plugins\\TowerDefenseCamera\\Source\\TowerDefenseCamera\\Public\\Actors\\CameraRig.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\TowerDefenseCamera.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Plugins\\TowerDefenseCamera\\Source\\TowerDefenseCamera\\Public\\TowerDefenseCamera.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\TowerDefenseCamera.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Plugins\\TowerDefenseCamera\\Source\\TowerDefenseCamera\\TowerDefenseCamera.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\TowerDefenseCamera.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
 		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Source\\MasterclassProjectCore\\MasterclassProjectCore.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\MasterclassProjectCore.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Source\\MasterclassProjectCore\\Private\\CustomGameInstance.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\MasterclassProjectCore.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Source\\MasterclassProjectCore\\Private\\CustomGameInstance.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\MasterclassProjectCore.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Source\\MasterclassProjectCore\\Private\\CustomGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\MasterclassProjectCore.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Source\\MasterclassProjectCore\\Private\\CustomGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\MasterclassProjectCore.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Source\\MasterclassProjectCore\\Private\\CustomGameState.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\MasterclassProjectCore.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Source\\MasterclassProjectCore\\Private\\CustomGameState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\MasterclassProjectCore.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Source\\MasterclassProjectCore\\Private\\CustomHUD.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\MasterclassProjectCore.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Source\\MasterclassProjectCore\\Private\\CustomHUD.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\MasterclassProjectCore.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Source\\MasterclassProjectCore\\Private\\CustomPawn.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\MasterclassProjectCore.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Source\\MasterclassProjectCore\\Private\\CustomPawn.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\MasterclassProjectCore.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Source\\MasterclassProjectCore\\Private\\CustomPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\MasterclassProjectCore.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Source\\MasterclassProjectCore\\Private\\CustomPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\MasterclassProjectCore.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Source\\MasterclassProjectCore\\Private\\CustomPlayerState.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\MasterclassProjectCore.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Source\\MasterclassProjectCore\\Private\\CustomPlayerState.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
 			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\MasterclassProjectCore.1.rsp"
