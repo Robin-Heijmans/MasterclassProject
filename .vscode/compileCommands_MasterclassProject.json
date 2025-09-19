@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Source\\MasterclassProjectCore\\MasterclassProjectCore.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\MasterclassProjectCore.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Source\\MasterclassProjectCore\\Private\\Log.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\MasterclassProjectCore.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Source\\MasterclassProjectCore\\Private\\Log.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\MasterclassProjectCore.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Source\\MasterclassProjectCore\\Private\\MasterclassProjectCore.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\MasterclassProjectCore.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\Source\\MasterclassProjectCore\\Public\\MasterclassProjectCore.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\.CMGT\\Year3\\UE_projects\\MasterclassProject\\.vscode\\compileCommands_MasterclassProject\\MasterclassProjectCore.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]
