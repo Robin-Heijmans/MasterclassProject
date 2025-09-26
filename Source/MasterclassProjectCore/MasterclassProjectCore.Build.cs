@@ -5,6 +5,6 @@ public class MasterclassProjectCore : ModuleRules
     public MasterclassProjectCore(ReadOnlyTargetRules Target) : base(Target)
     {
         PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine" });
-        PrivateDependencyModuleNames.AddRange(new string[] { });
+        PrivateDependencyModuleNames.AddRange(new string[] { "TowerDefenseCamera" });
     }
 }
