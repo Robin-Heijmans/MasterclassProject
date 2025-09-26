@@ -1,6 +1,7 @@
 #include "Actors/CameraRig.h"
 #include "GameFramework/SpringArmComponent.h"
 #include "Camera/CameraComponent.h"
+#include "Actors/CameraRigZoomComponent.h"
 
 ACameraRig::ACameraRig(const FObjectInitializer& ObjctInitializer) {
     RootComponent = CreateDefaultSubobject<USceneComponent>(TEXT("RootComponent"));
@@ -13,4 +14,6 @@ ACameraRig::ACameraRig(const FObjectInitializer& ObjctInitializer) {
 
     Camera = CreateDefaultSubobject<UCameraComponent>(TEXT("Camera"));
     Camera->SetupAttachment(SpringArm);
+
+    CameraRigZoomComponent = CreateDefaultSubobject<UCameraRigZoomComponent>(TEXT("CameraZoom"));
 }

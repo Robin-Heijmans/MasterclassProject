@@ -16,11 +16,20 @@ protected:
     virtual void BeginPlay() override;
     virtual void EndPlay(const EEndPlayReason::Type EndPlayReason) override;
 public:
-    UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="OmniCameraCore")
+    void BindInput(class UEnhancedInputComponent* EnhancedInputComponent);
+public:
+    UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="TowerDefenseCamera")
     TSubclassOf<class ACameraRig> CameraRigTemplate;
 
+    UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="TowerDefenseCamera")
+    TObjectPtr<class UInputMappingContext> CameraDefaultInputMappingContext;
+
+    UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="TowerDefenseCamera")
+    TObjectPtr<class UInputAction> CameraZoomAction;
 private:
     void EnsureCameraRig();
+    void Input_OnZoomCamera(const struct FInputActionValue& Value);
+
     UPROPERTY(Transient)
     TObjectPtr<class ACameraRig> SpawnedCameraRig;
 };

@@ -12,9 +12,11 @@ class ACustomPlayerController : public APlayerController
 
 public:
     ACustomPlayerController(const FObjectInitializer& ObjectInitializer);
-protected:
+public:
     virtual void BeginPlay() override;
-
+    virtual void SetupInputComponent() override;
+public:
+    
 public:
     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="CustomCore")
     TObjectPtr<class UCameraRigControllerComponent> CameraRigControllerComponent;

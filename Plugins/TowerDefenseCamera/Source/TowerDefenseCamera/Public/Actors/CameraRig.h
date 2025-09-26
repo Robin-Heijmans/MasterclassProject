@@ -18,4 +18,7 @@ public:
 
     UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category="TowerDefenseCamera")
     TObjectPtr<class UCameraComponent> Camera;
+
+    UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category="TowerDefenseCamera")
+    TObjectPtr<class UCameraRigZoomComponent> CameraRigZoomComponent;
 };
